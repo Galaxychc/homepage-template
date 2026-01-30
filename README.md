@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assets/preview.png"
+    src="./1.png"
     alt="Personal Homepage Template Preview"
     width="100%"
   />
